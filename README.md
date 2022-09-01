@@ -15,7 +15,7 @@
 
 Hi, I'm [Nitish Sharma](https://deluxe-gumption-e5085f.netlify.app/),  🚀 from India that loves to bring ideas to life , currently, I'm working on " Movie Streaming Application "[]). Beside's programming, I enjoy watching historical documentaries and movies.
 
-<img align="right" alt="GIF" src="https://github.com/Nitishsharma9/Nitishsharma9/blob/main/code.gif"?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Nitishsharma9/Nitishsharma9/blob/main/code.gif?raw=true" width="500" height="300" />
   
 **Talking about Personal Stuffs:**
 
