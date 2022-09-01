@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/nitish-sharma-a7475622b/">
   <img align="left" alt="Nitish sharma LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://amoldalwai.github.io/">
-  <img align="left" alt="Amol Dalwai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />
+<a href="https://www.instagram.com/p.r.o.f.e.s.s.o.r.9/">
+  <img align="left" alt="Nitish Sharma Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitishsharma9.Nitishsharma9)
