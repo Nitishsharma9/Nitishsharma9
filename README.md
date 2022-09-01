@@ -1,15 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://github.com/amoldalwai/">
-  <img align="left" alt="Amol Dalwai's | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Nitishsharma9">
+  <img align="left" alt="Nitish sharma | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/amol-dalwai-b258561b9/">
-  <img align="left" alt="Amol Dalwai's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nitish-sharma-a7475622b/">
+  <img align="left" alt="Nitish sharma LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://amoldalwai.github.io/">
   <img align="left" alt="Amol Dalwai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=amoldalwai.amoldalwai)
+![](https://visitor-badge.glitch.me/badge?page_id=Nitishsharma9.Nitishsharma9)
 
 <br />
 
