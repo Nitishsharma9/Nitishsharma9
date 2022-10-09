@@ -28,6 +28,8 @@ Hi, I'm [Nitish Sharma](https://deluxe-gumption-e5085f.netlify.app/),  🚀 from
 
 **Languages and Tools:**  
 
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
 <code><img height="20" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 <code><img height="20" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png"></code>
