@@ -9,7 +9,7 @@
   <img align="left" alt="Nitish Sharma Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />
 </a>
 
-//![](https://visitor-badge.glitch.me/badge?page_id=Nitishsharma9.Nitishsharma9)
+![](https://visitor-badge.glitch.me/badge?page_id=Nitishsharma9.Nitishsharma9)
 ![](https://komarev.com/ghpvc/?username=Nitishsharma9)
 
 <br />
