@@ -39,6 +39,6 @@ Hi, I'm [Nitish Sharma](https://deluxe-gumption-e5085f.netlify.app/),  🚀 from
 <!--
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amoldalwai&show_icons=true&theme=gotham" alt="amoldalwai" />-->
+
 
 
